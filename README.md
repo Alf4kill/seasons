@@ -1,3 +1,7 @@
+<!-- Information about this project -->
+
+this seasons project was made with the sole propose of study more about React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
